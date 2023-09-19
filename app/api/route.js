@@ -1,4 +1,4 @@
-export const runtime = 'edge'; // 'nodejs' is the default
+// export const runtime = 'edge'; // 'nodejs' is the default
 
 import { NextResponse } from 'next/server';
 const jsp = require('js-prototype-lib')
